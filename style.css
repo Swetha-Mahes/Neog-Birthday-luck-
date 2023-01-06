@@ -1,0 +1,33 @@
+body{
+  background-color: beige
+}
+h1{
+  text-align: center;
+  background-color:#ffff70;
+  padding 1rem;
+  margin:5% 30% 0%;
+  border: black solid 5px;
+
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  background-color:#ffff70;
+  padding: 3rem;
+  margin: 5% 20%;
+  border: black solid 8px;
+}
+label{
+  padding:1rem 0rem;
+}
+button{
+  margin: 1rem 30% ;
+  width:35%
+}
+
+#result-box{
+  font-size: larger;
+  font-family:fantasy;
+  text-align: center;
+}
